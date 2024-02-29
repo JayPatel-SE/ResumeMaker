@@ -1,0 +1,8 @@
+sec_file = "templates/section_latex.txt"
+setup_file = "templates/latex_setup.txt"
+edu_file = "templates/education_latex.txt"
+header_file = "templates/header_latex.txt"
+experience_file = "templates/experience_latex.txt"
+experience_description_file = "templates/experience_description_latex.txt"
+skill_category_file = "templates/skill_category_latex.txt"
+skill_and_awards_section_file = "templates/skills_and_awards_latex.txt"

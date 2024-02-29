@@ -1,0 +1,4 @@
+\section{#__name}
+\resumeSubHeadingListStart
+    #__data
+\resumeSubHeadingListEnd

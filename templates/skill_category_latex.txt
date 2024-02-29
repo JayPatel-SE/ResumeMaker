@@ -1,0 +1,1 @@
+            \textbf{#__skill_cat}{: #__skills_list} \\

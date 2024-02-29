@@ -1,0 +1,6 @@
+    \resumeSubheading
+        {#__name}{#__location}
+        {#__education}{#__start_date -- #__end_date}
+        \resumeItemListStart
+            \resumeItem{Cumulative GPA: #__GPA}
+        \resumeItemListEnd

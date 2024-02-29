@@ -1,0 +1,5 @@
+\begin{center}
+    \textbf{\Huge \scshape #__f_name #__l_name} \\ \vspace{1pt}
+    \small #__p_number $|$ \href{mailto:x@x.com}{\underline{#__email}} $|$ 
+    \href{https://#__linkedin}{\underline{#__linkedin}}
+\end{center}
